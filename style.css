@@ -1,0 +1,26 @@
+.animatedText {
+  color: black;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 25px;
+  display: inline-block;
+  padding: 0;
+  border-right: 1px solid #414141;
+}
+
+.find {
+  background-color: #aeaeae;
+  color: #292828;
+  border: 1px solid #cf5171 !important;
+  border-radius: 0.25rem;
+}
+.font{
+  color: #cf5171;
+}
+.heading{
+  color: rgb(93, 187, 187);
+}
+.cardborder{
+  border: 1px solid #cf5171;
+  border-radius: 1%;
+}
